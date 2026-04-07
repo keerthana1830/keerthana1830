@@ -15,7 +15,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keerthanar18)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keerthanarajkumar11@gmail.com)
-[![Profile Views](https://visitcount.itsvg.in/api?id=keerthana1830&icon=9&color=1)](https://visitcount.itsvg.in)
 
 </div>
 
