@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 💫 About Me:<br>Hi there! I'm Keerthana, a passionate Computer and Communication Engineering student with a strong interest in Embedded Systems, IoT, and AI-driven solutions.<br>🚀 I enjoy building real-world, hardware-integrated systems that solve practical problems — from smart healthcare monitoring to intelligent agriculture automation.<br><br><br>🔧 What I Do:<br>💡 Design and develop IoT-based smart systems<br>⚙️ Work with microcontrollers like ESP32, STM32, Arduino<br>🧠 Apply Machine Learning for real-time analysis<br>🔌 Build projects involving sensor interfacing & communication protocols (I2C, SPI, UART, CAN)<br>🐧 Explore Linux-based development & RTOS<br><br><br>🏆 Highlights:<br>🥇 Hackathon Winner – InstaVenture AI (CED, Anna University)<br>🥈 Runner-Up – National Level Project Exhibition (SRISHTI 2025)<br>🏅 4th Place – TNWISE Hackathon (₹10,000 prize)<br>📄 Published Research Paper – Smart Cart System (ICRTICC 2025)<br>
 
 
